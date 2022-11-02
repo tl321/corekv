@@ -1,8 +1,8 @@
 package corekv
 
 import (
-	"github.com/hardcore-os/corekv/iterator"
-	"github.com/hardcore-os/corekv/utils/codec"
+	"corekv/iterator"
+	"corekv/utils/codec"
 	"testing"
 	"time"
 )
